@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "interplot"]
+	path = interplot
+	url = https://github.com/sammo3182/interplot
+	shallow = true
+	registered = true
+[submodule "regioncode"]
+	path = regioncode
+	url = https://github.com/sammo3182/regioncode
+	shallow = true
+	registered = true

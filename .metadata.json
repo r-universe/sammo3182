@@ -1,0 +1,10 @@
+[
+  {
+    "package": "interplot",
+    "oncran": true
+  },
+  {
+    "package": "regioncode",
+    "oncran": true
+  }
+]
