@@ -1,5 +1,9 @@
 [
   {
+    "package": "drhur",
+    "oncran": true
+  },
+  {
     "package": "interplot",
     "oncran": true
   },
