@@ -1,6 +1,6 @@
 [
   {
-    "package": "regioncode",
+    "package": "drhur",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "drhur",
+    "package": "regioncode",
     "oncran": true
   }
 ]
