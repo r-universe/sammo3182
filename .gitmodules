@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "drhur"]
 	path = drhur
 	url = https://github.com/sammo3182/drhur
-	shallow = true
-	registered = true
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/sammo3182/interplot
-	shallow = true
-	registered = true
 [submodule "regioncode"]
 	path = regioncode
 	url = https://github.com/sammo3182/regioncode
-	shallow = true
-	registered = true
