@@ -5,6 +5,9 @@
 [submodule "drhur"]
 	path = drhur
 	url = https://github.com/sammo3182/drhur
+[submodule "drhutools"]
+	path = drhutools
+	url = https://github.com/sammo3182/drhutools
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/sammo3182/interplot
