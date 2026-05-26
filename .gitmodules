@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sammo3182/sammo3182.r-universe.dev
 	branch = HEAD
 [submodule "drhur"]
 	path = drhur
